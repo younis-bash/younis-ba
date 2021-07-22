@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @younis-ba
+- 👋 Hi, I’m @younis-ba | Mechatronics Engineer
 - 👀 I’m interested in Machinr learning  , deep learning , ROS , AI
-- 🌱 I’m currently learning  ROS, AI
+- 🌱 I’m currently learning  ROS, AI , computer vision
