@@ -5,7 +5,7 @@
 
 🎓 I hold a degree in Mechatronics Engineering . 
 
-🤖 With a strong background in Mechatronics, I have developed a deep passion for Robotics and the fascinating intersection of mechanical, electrical, and computer engineering.
+🤖 With a strong background in Mechatronics, I have developed a deep passion for Machine Learning  and the fascinating intersection of mechanical, electrical, and computer engineering.
 
 
 🔬 I have experience working on diverse projects where I have applied state-of-the-art machine learning algorithms to solve real-world problems. I enjoy exploring and implementing cutting-edge techniques in computer vision, natural language processing, and reinforcement learning.
